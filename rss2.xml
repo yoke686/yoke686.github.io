@@ -52,31 +52,10 @@
       
       
       
+      <category domain="http://example.com/tags/%E7%89%A9%E7%90%86/">物理</category>
+      
       
       <comments>http://example.com/2022/11/05/%E8%B4%B9%E7%B1%B3%E8%83%BD%E7%BA%A7/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>计算机网络作业</title>
-      <link>http://example.com/2022/10/31/my-new-page/</link>
-      <guid>http://example.com/2022/10/31/my-new-page/</guid>
-      <pubDate>Mon, 31 Oct 2022 06:26:12 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h1 id=&quot;Homework&quot;&gt;&lt;a href=&quot;#Homework&quot; class=&quot;headerlink&quot; title=&quot;Homework&quot;&gt;&lt;/a&gt;&lt;strong&gt;Homework&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;顾振亚2019053424&lt;/p&gt;
-</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h1 id="Homework"><a href="#Homework" class="headerlink" title="Homework"></a><strong>Homework</strong></h1><p>顾振亚2019053424</p>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2022/10/31/my-new-page/#disqus_thread</comments>
       
     </item>
     
