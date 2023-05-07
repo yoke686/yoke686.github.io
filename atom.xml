@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>明者如月</title>
   
-  
+  <subtitle>明者如月</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
