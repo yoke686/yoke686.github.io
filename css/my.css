@@ -1,1 +1,6 @@
-/* Here is your custom css styles. */
+/* 彻底去除大图彩色遮罩 */
+.bg-cover:after {
+    -webkit-animation: none !important;
+    animation: none !important;
+    background: none !important;
+}
