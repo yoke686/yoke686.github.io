@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>moon</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://yoke686.github.io/</id>
+  <link href="https://yoke686.github.io/" rel="alternate"/>
+  <link href="https://yoke686.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, moon</rights>
+  <subtitle>记录生活</subtitle>
+  <title>明如月</title>
+  <updated>2026-08-10T11:21:19.663Z</updated>
+  <entry>
+    <author>
+      <name>moon</name>
+    </author>
+    <id>https://yoke686.github.io/2026/08/10/hello-world/</id>
+    <link href="https://yoke686.github.io/2026/08/10/hello-world/"/>
+    <published>2026-08-10T11:21:19.663Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-08-10T11:21:19.663Z</updated>
+  </entry>
+</feed>
