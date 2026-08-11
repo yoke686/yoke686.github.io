@@ -439,7 +439,7 @@
         }
 
         coverSlider.carousel({
-            duration: Number('120'),
+            duration: Number('12'),
             fullWidth: true,
             indicators: 'true' === 'true',
             onCycleTo() {
@@ -457,7 +457,7 @@
         let autoCarousel = function () {
             carouselIntervalId = setInterval(function () {
                 coverSlider.carousel('next');
-            }, 5000);
+            }, 50);
         };
         autoCarousel();
         
