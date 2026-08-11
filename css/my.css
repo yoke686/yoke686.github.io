@@ -1,6 +1,29 @@
+@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/style.css');
+
 /* 彻底去除大图彩色遮罩 */
 .bg-cover:after {
     -webkit-animation: none !important;
     animation: none !important;
     background: none !important;
+}
+/* 首页打字副标题颜色 */
+.bg-cover .description,
+.bg-cover .description span,
+.typed-cursor {
+    color: #faf8f9 !important;
+}
+/* 首页中央大标题颜色 */
+.bg-cover .title {
+    color: #f7f2f7 !important;
+}
+
+/* 全站字体 */
+body {
+    font-family: 'LXGW WenKai', 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
+}
+
+/* 首页大标题和打字副标题（可选，单独指定更有层次感） */
+.bg-cover .title,
+.bg-cover .description {
+    font-family: 'LXGW WenKai', serif !important;
 }
